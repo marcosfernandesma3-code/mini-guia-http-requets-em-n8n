@@ -5,3 +5,9 @@ mini guia  http request em n8n com foco no metodo get e post
 
 objetivo do estudo
 entender o funcionamento do http request no n8n com foco no metodo get e post.
+
+
+## 2. fontes ultilizadas
+
+- documentaçao oficial do n8n sobre HTTP Request
+- 
